@@ -12,7 +12,7 @@ def main(args:Array[String]) = {
 	
 	
 	//Assign a type in Scala
-	var var1 : String = "This is a String"
+	var var1 : String = "This is a String Edited"
 	println(var1)
 	
 	//Type will be inferred if we dont specify one
